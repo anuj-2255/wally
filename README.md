@@ -1,13 +1,13 @@
 # Wally -A Real-REST API Client Application
+ 
+#### This is Real REST API client based wallpaper App which provide user new wallpapers everyday.
 
 ## What our application looks like ?
 ![Screenshot_20190602-114637](https://user-images.githubusercontent.com/47271638/58758592-f9f9b600-853a-11e9-8136-95128eaff5d9.png)
 ![Screenshot_20190602-114644](https://user-images.githubusercontent.com/47271638/58758600-03831e00-853b-11e9-8d65-d7aff2850e83.png)
 ![Screenshot_20190602-114930](https://user-images.githubusercontent.com/47271638/58758593-fd8d3d00-853a-11e9-8a33-104eb8fd2059.png)
-![Screenshot_20190602-114725](https://user-images.githubusercontent.com/47271638/58758601-054ce180-853b-11e9-8547-24c2d67dae9b.png)
+![Screenshot_20190602-114725](https://user-images.githubusercontent.com/47271638/58758601-054ce180-853b-11e9-8547-24c2d67dae9b.png) 
 
-## Descriiption
-This is wallpaper App which gives user new wallpapers everyday. 
 
 ## Used API
 * Unsplash API
