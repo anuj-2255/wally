@@ -6,6 +6,9 @@
 ![Screenshot_20190602-114930](https://user-images.githubusercontent.com/47271638/58758593-fd8d3d00-853a-11e9-8a33-104eb8fd2059.png)
 ![Screenshot_20190602-114725](https://user-images.githubusercontent.com/47271638/58758601-054ce180-853b-11e9-8547-24c2d67dae9b.png)
 
+## Descriiption
+This is wallpaper App which gives user new wallpapers everyday. 
+
 ## Used API
 * Unsplash API
 
